@@ -1,0 +1,25 @@
+{
+  "name": "myexpressapp",
+  "version": "1.0.0",
+  "description": "myexpressapp ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lkpho-Cloud-applications-with-Node.js-and-React"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "sonypatangay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
